@@ -1,3 +1,3 @@
 # sr.first
 editing branch2
-HTGRFRGHYJ
+CONFLICT RESOLVED
